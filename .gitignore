@@ -1,2 +1,3 @@
 node_modules
-clarifai_key
+.txt
+.env
